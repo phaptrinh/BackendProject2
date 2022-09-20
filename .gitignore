@@ -1,0 +1,6 @@
+# Project exclude paths
+/api-gateway/target/
+/config-server/target/
+/currency-conversion-service/target/
+/currency-exchange-service/target/
+/eureka-naming-server/target/
