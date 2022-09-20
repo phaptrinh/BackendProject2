@@ -23,6 +23,7 @@ GET http://localhost:8888/currency-exchange-service/dev
 ## Eureka Naming Server
 Using Spring Cloud Netflix Eureka discovery service to provide service registration and client-side load-balancing.
 - Port: 8761
+- UI: http://localhost:8761/
 
 
 ## Currency Exchange Service
